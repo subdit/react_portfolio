@@ -17,9 +17,9 @@ function Navbar() {
           src={
             menuOpen
               ? getImageUrl('nav/closeIcon.png')
-              : getImageUrl('nav/hamberger_menu.png')
+              : getImageUrl('nav/menuIcon.png')
           }
-          alt='menu-button'
+          alt='hamburger_menu'
           onClick={() => setMenuOpen(!menuOpen)}
         />
         <ul className={styles.menuItems}>
