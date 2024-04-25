@@ -16,8 +16,8 @@ function Navbar() {
           className={styles.menuBtn}
           src={
             menuOpen
-              ? getImageUrl('../nav/closeIcon.png')
-              : getImageUrl('../nav/hamberger_menu.png')
+              ? getImageUrl('nav/closeIcon.png')
+              : getImageUrl('nav/hamberger_menu.png')
           }
           alt='menu-button'
           onClick={() => setMenuOpen(!menuOpen)}
