@@ -1,9 +1,9 @@
-import styles from './Navbar.module.css';
 import React, { useState } from 'react';
 
-import { getImageUrl } from '../utils.js';
+import styles from './Navbar.module.css';
+import { getImageUrl } from '../utils';
 
-function Navbar() {
+export const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
@@ -19,26 +19,26 @@ function Navbar() {
               ? getImageUrl('nav/closeIcon.png')
               : getImageUrl('nav/menuIcon.png')
           }
-          alt='hamburger_menu'
+          alt='menu-button'
           onClick={() => setMenuOpen(!menuOpen)}
         />
-        <ul className={styles.menuItems}>
+        <ul
+          className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`}
+          onClick={() => setMenuOpen(true)}>
           <li>
-            <a href='about'>About</a>
+            <a href='#about'>About</a>
           </li>
           <li>
-            <a href='Experience'>Experience</a>
+            <a href='#experience'>Experience</a>
           </li>
           <li>
-            <a href='project'>Project</a>
+            <a href='#projects'>Projects</a>
           </li>
           <li>
-            <a href='contact'>Contact</a>
+            <a href='#contact'>Contact</a>
           </li>
         </ul>
       </div>
     </nav>
   );
-}
-
-export default Navbar;
+};
