@@ -6,8 +6,8 @@ function Hero() {
     <section>
       <h1>Hi, I &apos m Kasidit B.</h1>
       <p>
-        I &apos m a full-stack developer with 4 years of experience with React,
-        Angular, Java and CMS. Please reach out if you have any questions.
+        I &apos m a full-stack developer with 5 years of experience with React,
+        Angular, Java and CMS. Please reach out if you have new opportunityr .
       </p>
       <a href={getImageUrl('hero/heroImage.png')} alt='hero_image'>
         Contact Me
