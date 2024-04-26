@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 function App() {
   return (
     <div className={styles.App}>
+      <h2>Portfolio</h2>
       <Navbar />
     </div>
   );
