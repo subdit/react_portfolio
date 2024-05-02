@@ -1,27 +1,29 @@
 import React from 'react';
 
 import styles from './Hero.module.css';
-import getImageUrl from '../../utils';
+import { getImageUrl } from '../../utils';
 
-export function Hero() {
+export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I &apos m Kasidit B.</h1>
+        <h1 className={styles.title}>Hi, I'm Kasidit Bualoeng</h1>
         <p className={styles.description}>
-          I &apos m a full-stack developer with 5 years of experience with
-          React, Angular, Java and CMS. Please reach out if you have new
-          opportunity.
+          I'm a full-stack developer with 5 years of experience using React,
+          Nex.js and NodeJS. Experience in CMS content management system. Reach
+          out if you've new opprotunity or needed support from me!
         </p>
-        <a href='mailto:myemail@email.com'>Contact Me</a>
+        <a href='mailto:subdit@gmail.com' className={styles.contactBtn}>
+          Contact Me
+        </a>
       </div>
       <img
-        src={getImageUrl('hero/hero_image.png')}
-        alt='hero_image'
-        className='{styles.heroImg}'
+        src={getImageUrl('hero/heroImage.png')}
+        alt='Hero image of me'
+        className={styles.heroImg}
       />
-      <div className={styles.topBlurr}></div>
-      <div className={styles.bottomBlurr}></div>
+      <div className={styles.topBlur} />
+      <div className={styles.bottomBlur} />
     </section>
   );
-}
+};
