@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className={styles.description}>
           I'm a full-stack developer with 5 years of experience using React,
           Nex.js and NodeJS. Experience in CMS content management system. Reach
-          out if you've new opprotunity or needed support from me!
+          out if you &apos ve new opprotunity or needed support from me!
         </p>
         <a href='mailto:subdit@gmail.com' className={styles.contactBtn}>
           Contact Me
