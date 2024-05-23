@@ -7,17 +7,17 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Ada</h1>
+        <h1 className={styles.title}>Hi, my name is Kasidit Bualoeng</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 5 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+          I'm a full-stack developer with six years of experience using React,
+          Next.js and NodeJS.
         </p>
         <a href='mailto:subdit@gmail.com' className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
       <img
-        src={getImageUrl('hero/heroImage.png')}
+        src={getImageUrl('hero/hero_profile.png')}
         alt='Hero image of me'
         className={styles.heroImg}
       />
