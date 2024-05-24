@@ -23,16 +23,29 @@
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
-  {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
-  },
+
   {
     "title": "WordPress",
-    "imageSrc": "skills/figma.png"
+    "imageSrc": "skills/wordpress-logo.png"
   },
   {
     "title": "CMS",
+    "imageSrc": "skills/cms.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java-logo.png"
+  },
+  {
+    "title": "Typescript",
+    "imageSrc": "skills/cms.png"
+  },
+  {
+    "title": "Angular",
+    "imageSrc": "skills/angular.png"
+  },
+  {
+    "title": "Figma",
     "imageSrc": "skills/figma.png"
   }
 ]

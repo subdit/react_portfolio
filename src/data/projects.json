@@ -1,26 +1,35 @@
 [
   {
-    "title": "Project A",
+    "title": "AI SaaS Chat Bot",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "description": "This is an application to learn how to utilize and implement ChatGPT",
+    "skills": ["React", "Express", "Node", "typescript", "MongoDB"],
+    "demo": "https://github.com/subdit/ai-saas-chat-bot",
+    "source": "https://www.github.com"
+  },
+
+  {
+    "title": "SQL Prompt",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn how to create prompt using ChatGPT",
+    "skills": ["Next.js", "Tailwind.css", "Vercel hosting"],
+    "demo": "https://github.com/subdit/prompt_sharing",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "Tesla Clone",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
+    "skills": ["React", "Style.component", "html", "CSS"],
+    "demo": "https://github.com/subdit/Tesla-Clone",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
+    "title": "Responsive Design",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "description": "This is a project made to learn how to create the responsive application.",
+    "skills": ["HTML", "javascript", "CSS"],
+    "demo": "https://github.com/subdit/Responsive-design",
     "source": "https://www.github.com"
   }
 ]

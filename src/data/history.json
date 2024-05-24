@@ -1,68 +1,68 @@
 [
   {
     "role": "AI training | Python-Javascript discipline",
-    "organisation": "Outlier | Remotasks",
+    "organization": "Outlier | Remotasks",
     "startDate": "March, 2024",
     "endDate": "Present",
     "experiences": [
       "Worked on Python & JavaScript discipline to train AI.",
       "I like working here!"
     ],
-    "imageSrc": "history/google.png"
+    "imageSrc": "history/remotask.png"
   },
   {
     "role": "Freelance | Web Developer",
-    "organisation": "Freelancer",
+    "organization": "Freelancer",
     "startDate": "November, 2018",
     "endDate": "Present",
     "experiences": [
       "Worked with clients to desing, create, and maintain web applications for their business.",
       "I like working with client interaction."
     ],
-    "imageSrc": "history/google.png"
+    "imageSrc": "history/freelancer.png"
   },
   {
     "role": "Content Modeler | Software Engineer",
-    "organisation": "Infogain",
+    "organization": "Infogain",
     "startDate": "July, 2023",
     "endDate": "October, 2023",
     "experiences": [
-      "Worked on an e-commerce of retail company to build an application using CMS to transform and deploy a new front-end with React, IOs, and Android.",
+      "Worked on an e-commerce of retail company to build an application using CMS low-code solution to transform and deploy a new front-end with React, IOs, and Android.",
       "Reduced load times and automation by more than 70%."
     ],
-    "imageSrc": "history/google.png"
+    "imageSrc": "history/infogain.png"
   },
   {
     "role": "Software Developer | CMS Team Lead",
-    "organisation": "Synechron | Contract",
+    "organization": "Synechron | Contract",
     "startDate": "February, 2023",
     "endDate": "July, 2023",
     "experiences": [
-      "Worked CMS as a backend and React | Next.js for front-end.",
+      "Worked on CMS project as a full-stack developer used React, Next.js for front-end development.",
       "Created and Designed content Models with fast deployment."
     ],
-    "imageSrc": "history/microsoft.png"
+    "imageSrc": "history/cms.png"
   },
   {
     "role": "Digital Technology Engineer",
-    "organisation": "Nexient | NTT Data",
+    "organization": "Nexient | NTT Data",
     "startDate": "June, 2022",
     "endDate": "February, 2022",
     "experiences": [
-      "Worked on Angular to buld the application for Utility company.",
+      "Worked on Angular project to build the application for Utility company.",
       "Helped create UI components and migrated the data to a new CMS platform."
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/nexient.png"
   },
   {
     "role": "Junior Software Engineer",
-    "organisation": "National Grid Digital | Contract",
+    "organization": "National Grid Digital | Contract",
     "startDate": "March, 2020",
     "endDate": "Decemberr, 2020",
     "experiences": [
       "Worked on implementing Google Maps to transform the short cycle paperwork into digital application.",
       "Reduced paper work and cost saving 100%."
     ],
-    "imageSrc": "history/google.png"
+    "imageSrc": "history/ng.png"
   }
 ]
