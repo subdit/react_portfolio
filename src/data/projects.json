@@ -3,7 +3,7 @@
     "title": "AI SaaS Chat Bot",
     "imageSrc": "projects/project.png",
     "description": "This is an application to learn how to utilize and implement ChatGPT",
-    "skills": ["React", "Express", "Node", "typescript", "MongoDB"],
+    "skills": ["React", "Node | Express", "typescript", "MongoDB"],
     "demo": "https://github.com/subdit/ai-saas-chat-bot",
     "source": "https://www.github.com"
   },
@@ -12,7 +12,7 @@
     "title": "SQL Prompt",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn how to create prompt using ChatGPT",
-    "skills": ["Next.js", "Tailwind.css", "Vercel hosting"],
+    "skills": ["Next.js", "Tailwind.css", "Vercel hosting", "Github"],
     "demo": "https://github.com/subdit/prompt_sharing",
     "source": "https://www.github.com"
   },
@@ -20,7 +20,7 @@
     "title": "Tesla Clone",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Style.component", "html", "CSS"],
+    "skills": ["React", "style.component", "HTML", "CSS"],
     "demo": "https://github.com/subdit/Tesla-Clone",
     "source": "https://www.github.com"
   },

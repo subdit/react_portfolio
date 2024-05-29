@@ -1,0 +1,43 @@
+@import '../../vars.css';
+.container {
+  width: 100vw;
+  height: 100%;
+  font-size: 22px;
+  font-weight: 600;
+  color: var(--color-text);
+  margin-top: 120px;
+  background-color: var(--color-secondary);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 58px 10%;
+  gap: 10px;
+}
+.text h2 {
+  font-size: 80px;
+  font-weight: 600;
+  letter-spacing: 4px;
+}
+.text p {
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: 2px;
+}
+.links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style: none;
+  gap: 26px;
+}
+.link {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+.link a {
+  color: var(--color-text);
+  text-decoration: none;
+  font-size: 25px;
+  letter-spacing: 1.5px;
+}
