@@ -5,7 +5,6 @@
   font-family: 'Outfit', Arial, Helvetica, sans-serif;
 }
 
-// make the scroll down smoother
 html {
   scroll-behavior: smooth;
 }
