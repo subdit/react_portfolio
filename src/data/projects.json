@@ -5,7 +5,7 @@
     "description": "This is an application to learn how to utilize and implement ChatGPT",
     "skills": ["React", "Node | Express", "typescript", "MongoDB"],
     "demo": "https://github.com/subdit/ai-saas-chat-bot",
-    "source": "https://www.github.com"
+    "source": "https://github.com/subdit/ai-saas-chat-bot"
   },
 
   {
@@ -14,15 +14,15 @@
     "description": "This is a project made to learn how to create prompt using ChatGPT",
     "skills": ["Next.js", "Tailwind.css", "Vercel hosting", "Github"],
     "demo": "https://github.com/subdit/prompt_sharing",
-    "source": "https://www.github.com"
+    "source": "https://github.com/subdit/prompt_sharing"
   },
   {
     "title": "Tesla Clone",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "style.component", "HTML", "CSS"],
-    "demo": "https://github.com/subdit/Tesla-Clone",
-    "source": "https://www.github.com"
+    "demo": "https://tesla-clone-ten-lilac.vercel.app/",
+    "source": "https://github.com/subdit/Tesla-Clone"
   },
   {
     "title": "Responsive Design",
@@ -30,6 +30,6 @@
     "description": "This is a project made to learn how to create the responsive application.",
     "skills": ["HTML", "javascript", "CSS"],
     "demo": "https://github.com/subdit/Responsive-design",
-    "source": "https://www.github.com"
+    "source": "https://github.com/subdit/Responsive-design"
   }
 ]
