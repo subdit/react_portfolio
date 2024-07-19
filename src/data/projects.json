@@ -2,7 +2,7 @@
   {
     "title": "AI SaaS Chat Bot",
     "imageSrc": "projects/project.png",
-    "description": "This is an application to learn how to utilize and implement ChatGPT",
+    "description": "This is an application to learn how to utilize and implement ChatGPT using Node.js and MongoDB",
     "skills": ["React", "Node | Express", "typescript", "MongoDB"],
     "demo": "https://github.com/subdit/ai-saas-chat-bot",
     "source": "https://github.com/subdit/ai-saas-chat-bot"
@@ -23,13 +23,5 @@
     "skills": ["React", "style.component", "HTML", "CSS"],
     "demo": "https://tesla-clone-ten-lilac.vercel.app/",
     "source": "https://github.com/subdit/Tesla-Clone"
-  },
-  {
-    "title": "Responsive Design",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn how to create the responsive application.",
-    "skills": ["HTML", "javascript", "CSS"],
-    "demo": "https://github.com/subdit/Responsive-design",
-    "source": "https://github.com/subdit/Responsive-design"
   }
 ]
