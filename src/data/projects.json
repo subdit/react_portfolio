@@ -9,12 +9,12 @@
   },
 
   {
-    "title": "SQL Prompt",
+    "title": "Digital Cloud",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn how to create prompt using ChatGPT",
+    "description": "This is a project made with Next.js for digital cloud hosting platform",
     "skills": ["Next.js", "Tailwind.css", "Vercel hosting", "Github"],
-    "demo": "https://github.com/subdit/prompt_sharing",
-    "source": "https://github.com/subdit/prompt_sharing"
+    "demo": "https://digital-marketing-eight-black.vercel.app/",
+    "source": "https://github.com/subdit/next-project"
   },
   {
     "title": "Tesla Clone",
