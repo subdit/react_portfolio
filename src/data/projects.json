@@ -17,11 +17,11 @@
     "source": "https://github.com/subdit/next-project"
   },
   {
-    "title": "Tesla Clone",
+    "title": "Drag and Drop Note Application",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "style.component", "HTML", "CSS"],
-    "demo": "https://tesla-clone-ten-lilac.vercel.app/",
-    "source": "https://github.com/subdit/Tesla-Clone"
+    "description": "This project build with React for drag and drop notepad application",
+    "skills": ["React", "CSS", "Vercel hosting", "Github"],
+    "demo": "https://drag-and-drop-zeta-three.vercel.app/",
+    "source": "https://github.com/subdit/drag-and-drop"
   }
 ]
